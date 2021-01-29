@@ -1,0 +1,3 @@
+﻿  Battleship.cpp
+C:\Workspace\battleship-\Battleship\Battleship\Battleship.cpp(9,22): warning C4309: 'initializing': truncation of constant value
+  Battleship.vcxproj -> C:\Workspace\battleship-\Battleship\Debug\Battleship.exe
